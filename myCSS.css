@@ -34,7 +34,7 @@ h2 {
 	margin: 0 0 1rem 1.5rem;
 }
 
-ul, p, figcaption {
+footer div, p, figcaption {
 	line-height: 1.5;
 	margin: 0 2.5rem 1.3rem 2.5rem;
 }
@@ -46,6 +46,7 @@ img {
 
 ul {
 	list-style-position: inside;
+	margin: 0;
 	padding: 0;
 }
 
@@ -132,4 +133,5 @@ thead {
 	footer {
 		display: grid;
 		grid-template-columns: 150px 1fr 1fr;
+	}
 }
