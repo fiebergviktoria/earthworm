@@ -125,7 +125,7 @@ footer {
 
 footer div {
 	line-height: 1.5;
-	margin: 0 2.5rem 1.3rem 2.5rem;
+	margin: 0 2.5rem 1.3rem 3.5rem;
 }
 
 /*media rules responsive design*/
@@ -158,13 +158,6 @@ footer div {
 
 	footer {
 		display: grid;
-		grid-template-columns: 150px 1fr 1fr 1fr;
+		grid-template-columns: 150px 1fr 1fr;
 	}
-
-	@supports (display: grid) {
-		footer img {
-			margin-left: -125px
-		}
-	}	
-
 }
