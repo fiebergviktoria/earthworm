@@ -25,12 +25,6 @@ h1 {
     vertical-align: middle;
 }
 
-header img {
-	display: inline-block;
-    vertical-align: middle;
-	margin: 0 1.5em 0 0;
-}
-
 /*body rules*/
 /*percentages in the gradient-function specify the starting point of the color with 0% being the top of the website*/
 body {
@@ -98,10 +92,10 @@ caption {
 
 th, td {
 	text-align: left;
-    	line-height: 1;
+    line-height: 1;
 	font-size: calc(0.75em + 0.25vw);
 	overflow-wrap: break-word;
-    	padding: 0.25em 0.5em 0.5em 0.5em;
+    padding: 0.25em 0.5em 0.5em 0.5em;
 }
 
 /*enable zebra striping for better visibility*/
