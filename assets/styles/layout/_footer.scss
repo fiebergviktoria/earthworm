@@ -1,0 +1,10 @@
+@use '../abstracts/variables' as *;
+
+/*footer-rules*/
+footer {
+	margin: calc(2.5 * $defaultem) 0 calc(2.5 * $defaultem) 0;
+
+    div {
+        margin: 0 calc(2.5 * $defaultem) $defaultem calc(3.5 * $defaultem);
+    }
+}

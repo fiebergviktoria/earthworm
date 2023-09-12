@@ -1,0 +1,7 @@
+@use '../abstracts/variables' as *;
+
+/*header rules*/
+header {
+	margin: calc(3 * $defaultem) 0 calc(3 * $defaultem) 0;
+	text-align: center;
+}

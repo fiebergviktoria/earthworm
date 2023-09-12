@@ -1,0 +1,21 @@
+@use '../abstracts/variables' as *;
+
+@media screen and (min-width: calc(67 * $defaultem)) {
+	article {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(calc(38 * $defaultem), 1fr));
+	}
+
+	.fig-table {
+		grid-column: 1 / span 2;
+	}
+
+	figure img {
+		margin-top: calc(2 * $defaultem);
+	}
+
+	footer {
+		display: grid;
+		grid-template-columns: calc(10 * $defaultem) 1fr 1fr;
+	}
+}

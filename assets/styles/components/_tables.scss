@@ -1,0 +1,51 @@
+@use '../abstracts/variables' as *;
+
+/*table rules*/
+/*
+table-layout: fixed -> table behaves more predictably, columns follow width of their headings
+border-collapse: collapse -> borders collapse into one
+*/
+table {
+	table-layout: fixed;
+	border-collapse: collapse;
+}
+
+caption {
+	margin: calc($defaultem / 2);
+}
+
+th, td {
+	text-align: left;
+    line-height: 1;
+	font-size: calc($defaultem * 0.75 + 0.25vw);
+	overflow-wrap: break-word;
+    padding: calc(0.5 * $defaultem);
+}
+
+/*enable zebra striping for better visibility*/
+tbody tr:nth-child(even) {
+	background-color: unquote($darkgreen + '66');
+}
+
+tbody tr:nth-child(odd) {
+	background-color: unquote($darkbrown + '66');
+}
+
+thead {
+	background-color: unquote($darkgreen + '66');
+}
+
+@media screen and (max-width: 1060px) {
+	/*enable horizontal scrolling for tables*/
+	.fig-table {
+		max-width: 100%; 
+		overflow-x: scroll;
+	}
+}
+
+@media screen and (min-width: 1061px) {
+	/* table fills any container its put in*/
+	table {
+		width: 100%;
+	}
+}
