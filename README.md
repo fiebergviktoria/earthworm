@@ -9,7 +9,7 @@
  SCSS (with the pure-JavaScript package built from the Dart Sass 1.66.1 implementation)  
  (npm: '9.8.1' node: '18.12.1')
  ## getting started:
- to use the scss-files sass has to be installed: 
+ to use the scss-files sass has to be installed:  
  via npm:  
 
     npm install -g sass
