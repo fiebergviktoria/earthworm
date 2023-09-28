@@ -1,5 +1,6 @@
 @use '../abstracts/variables' as *;
 
+/*grid rules*/
 @media screen and (min-width: calc(67 * $defaultem)) {
 	article {
 		display: grid;

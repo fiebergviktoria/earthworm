@@ -1,7 +1,6 @@
 @use '../abstracts/variables' as *;
 
-/*body rules*/
-/*percentages in the gradient-function specify the starting point of the color with 0% being the top of the website*/
+/*default rules*/
 body {
 	background-color: $darkgreen;
 	background-image: linear-gradient($lightgreen, $darkgreen 12%, $brown 48%);
