@@ -1,16 +1,3 @@
-# List of Wikipedia Authors
-* [Regenwürmer](https://de.wikipedia.org/w/index.php?title=Regenw%C3%BCrmer&action=history)
-* [gemeiner Regenwurm](https://de.wikipedia.org/w/index.php?title=Gemeiner_Regenwurm&action=history)
-* [Kompostwurm](https://de.wikipedia.org/w/index.php?title=Kompostwurm&action=history)
-* [Mikroplastik](https://de.wikipedia.org/w/index.php?title=Mikroplastik&action=history)
-* [biologischer Gartenbau](https://de.wikipedia.org/w/index.php?title=Biologischer_Gartenbau&action=history)
-* [Wurmkompostierung](https://de.wikipedia.org/w/index.php?title=Wurmkompostierung&action=history)
-* [kleiner Ackerwurm](https://de.wikipedia.org/w/index.php?title=Kleiner_Ackerwurm&action=history)
-* [badischer Riesenregenwurm](https://de.wikipedia.org/w/index.php?title=Badischer_Riesenregenwurm&action=history)
-* [brauner Laubfresser](https://de.wikipedia.org/w/index.php?title=Brauner_Laubfresser&action=history)
-* [roter Waldregenwurm](https://de.wikipedia.org/w/index.php?title=Roter_Waldregenwurm&action=history)
-* [Streuk (Ökologie)](https://de.wikipedia.org/w/index.php?title=Streu_(%C3%96kologie)&action=history)
-
 # Attribution-ShareAlike 3.0 Unported
 THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
 
@@ -191,3 +178,37 @@ Section 8 – Interpretation.
     No term or condition of this Public License will be waived and no failure to comply consented to unless expressly agreed to by the Licensor.
     Nothing in this Public License constitutes or may be interpreted as a limitation upon, or waiver of, any privileges and immunities that apply to the Licensor or You, including from the legal processes of any jurisdiction or authority.
 
+# List of Wikipedia Authors
+* [Regenwürmer](https://de.wikipedia.org/w/index.php?title=Regenw%C3%BCrmer&action=history)
+* [gemeiner Regenwurm](https://de.wikipedia.org/w/index.php?title=Gemeiner_Regenwurm&action=history)
+* [Kompostwurm](https://de.wikipedia.org/w/index.php?title=Kompostwurm&action=history)
+* [Mikroplastik](https://de.wikipedia.org/w/index.php?title=Mikroplastik&action=history)
+* [biologischer Gartenbau](https://de.wikipedia.org/w/index.php?title=Biologischer_Gartenbau&action=history)
+* [Wurmkompostierung](https://de.wikipedia.org/w/index.php?title=Wurmkompostierung&action=history)
+* [kleiner Ackerwurm](https://de.wikipedia.org/w/index.php?title=Kleiner_Ackerwurm&action=history)
+* [badischer Riesenregenwurm](https://de.wikipedia.org/w/index.php?title=Badischer_Riesenregenwurm&action=history)
+* [brauner Laubfresser](https://de.wikipedia.org/w/index.php?title=Brauner_Laubfresser&action=history)
+* [roter Waldregenwurm](https://de.wikipedia.org/w/index.php?title=Roter_Waldregenwurm&action=history)
+* [Streuk (Ökologie)](https://de.wikipedia.org/w/index.php?title=Streu_(%C3%96kologie)&action=history)
+
+# MIT License
+
+Copyright (c) [2023] [Viktoria Fieberg]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
